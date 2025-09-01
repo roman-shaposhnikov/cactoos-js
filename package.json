@@ -1,15 +1,20 @@
 {
-  "name": "[REPLACE]",
+  "name": "cactoos-js",
   "version": "0.0.0",
   "author": "Roman Shaposhnikov <roman_shaposhnikov_pub@mail.ru>",
   "license": "MIT",
-  "description": "[REPLACE]",
+  "description": "Object-Oriented JS/TS primitives",
   "type": "module",
-  "keywords": [],
-  "homepage": "https://github.com/roman-shaposhnikov/[REPLACE]#readme",
+  "keywords": [
+    "OOP",
+    "eo",
+    "objectionary",
+    "utils"
+  ],
+  "homepage": "https://github.com/roman-shaposhnikov/cactoos-js#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/roman-shaposhnikov/[REPLACE]"
+    "url": "https://github.com/roman-shaposhnikov/cactoos-js"
   },
   "publishConfig": {
     "access": "public"
